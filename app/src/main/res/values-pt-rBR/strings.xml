@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FastInvest</string>
+    <string name="fill_fields">Preencha todos os campos</string>
+    <string name="fields_empty">R$ 0,00</string>
+    <string name="app_description">O valor recebido ao final do investimento será:</string>
+    <string name="income_value">Valor da renda:</string>
+    <string name="investment_contribution">Contribuição para o investimento:</string>
+    <string name="investment_contribution_hint">Ex: R$ 500,00</string>
+    <string name="number_of_months">Número de meses:</string>
+    <string name="number_of_months_hint">Ex: 12</string>
+    <string name="fees">Taxas % (opcional):</string>
+    <string name="fees_hint">Ex: 12,5%</string>
+    <string name="income_expected">Renda % esperada:</string>
+    <string name="income_expected_hint">Ex: 1,4%</string>
+    <string name="btn_clean">Limpo</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="value_field">R$ %.2f</string>
+</resources>

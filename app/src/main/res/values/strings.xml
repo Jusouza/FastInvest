@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FastInvest</string>
+    <string name="fill_fields">Fill all the fields</string>
+    <string name="fields_empty">$ 0.00</string>
+    <string name="app_description">The amount received at the end of the investment will be:</string>
+    <string name="income_value">Income value:</string>
+    <string name="investment_contribution">Investment contribution:</string>
+    <string name="investment_contribution_hint">Ex: \$ 500.00</string>
+    <string name="number_of_months">Number of months:</string>
+    <string name="number_of_months_hint">Ex: 12</string>
+    <string name="fees">Fees % (optional):</string>
+    <string name="fees_hint">Ex: 12.5%</string>
+    <string name="income_expected">Income expected %:</string>
+    <string name="income_expected_hint">Ex: 1.4%</string>
+    <string name="btn_clean">Clean</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="value_field">$ %.2f</string>
+</resources>
